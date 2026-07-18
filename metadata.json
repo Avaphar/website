@@ -1,0 +1,6 @@
+{
+  "name": "Avaphar",
+  "description": "An elegant, storytelling-led website for Avaphar, a premium natural personal care and botanical skincare brand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
